@@ -1,0 +1,32 @@
+{
+  "editor.snippetSuggestions": "top",
+  "editor.tabSize": 2,
+  "[go]": {
+      "editor.tabSize": 4
+  },
+  "[javascript]": {
+      "editor.tabSize": 2
+  },
+  "editor.detectIndentation": false,
+  "explorer.openEditors.visible": 0,
+  "window.zoomLevel": 1,
+  "files.associations": {
+      "*.go.tmpl": "go",
+      "*.proto.tmpl": "proto3"
+  },
+  "java.errors.incompleteClasspath.severity": "ignore",
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressResultsExplorerNotice": false,
+    "suppressShowKeyBindingsNotice": true
+  },
+  "extensions.ignoreRecommendations": false,
+  "workbench.colorTheme": "Cobalt2",
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "'Operator Mono', Menlo, Monaco, 'Courier New', monospace"
+}
